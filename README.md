@@ -1,0 +1,27 @@
+# Skill Guide
+
+AI Tools & Skills 完整中文指南合集。
+
+## 指南列表
+
+- **OpenHuman** — 个人 AI 超级智能助手（118+ 集成、记忆树、TokenJuice）→ `openhuman-guide.md`
+- **Karpathy Skills** — Claude Code 行为改进（Karpathy LLM 编码经验）→ `karpathy-skills-guide.md`
+- **Mattpocock Skills** — 真实工程师技能集（.claude 目录）→ `mattpocock-skills-guide.md`
+- **CloakBrowser** — 隐身 Chromium（通过所有机器人检测）→ `cloakbrowser-guide.md`
+- **Bmad Method** — AI 任务规划与执行方法论 → `bmad-method-guide.md`
+- **TradingAgents** — AI 交易助手 → `tradingagents-guide.md`
+- **HyperFrames** — AI 视频框架 → `hyperframes-guide.md`
+- **LLM Wiki** — 知识库管理（基于 Karpathy Wiki）→ `llm-wiki.md`
+- **Seedling** — AI 写作工具 → `seedling-guide.md`
+- **Polymarket Skills** — 预测市场工具对比 → `polymarket-skills-comparison-guide.md`
+- **Deep Live Cam** — AI 换脸工具 → `deep-live-cam-tutorial.md`
+- **MultiCA** — 多 Agent 协作 → `multica-guide.md`
+
+## 目录结构
+
+- `docs/` — 额外文档
+- `skills/` — Skill 配置文件
+
+---
+
+*持续更新 · 欢迎 Star 和 PR*
